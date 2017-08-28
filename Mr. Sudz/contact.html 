@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title> Welcome to Mr. Sudz!</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="sudzstyling.css">
+    <link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+
+<body>
+    
+    
+    <nav>
+        <ul>
+            <li> <a href="index.html"> Home </a></li>
+            <li> <a href="Locations.html"> Locations and Scheduling</a></li>
+            <li> <a href="contact.html%20"> Contact Us</a></li>
+         </ul>
+    </nav>
+    
+  <h1> Contact Us </h1> 
+    
+    
+    
+    
+
+    
+<footer>
+Copyright 2017 Gordon Akinpelu DBA Mr. Sudz    
+    
+</footer>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</body>    
+
+</html>
+
+
+
